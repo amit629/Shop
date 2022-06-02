@@ -15,6 +15,7 @@ class AddCategory extends Component {
     this.setState((prev)=>({
       check:prev.check+1
     }))
+    //check git
     
   }
   componentDidMount(){
