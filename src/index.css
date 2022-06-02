@@ -1,0 +1,43 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.sz-card-mt{
+   
+}
+.bg-secondary {
+    background-color: #EDF1FF !important;
+}
+.btn-primary {
+    color:black;
+    background-color: #c5837c;
+    border-color: #c17a74;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #c5837c;
+    border-color: #c17a74;
+}
+.text-primary{
+    color: #c5837c !important;
+
+}
+input[type='radio']:checked {
+    
+    background-color: #c5837c;
+    border:1px #c5837c ;
+    outline:none;
+    box-shadow: none;
+}
+input[type='radio']{
+    box-shadow: none;
+    
+}
+.btn_custom_prim{
+    color: #c5837c;
+}
+.btn_custom_prim:hover{
+    color: #c5837c;
+}
+.alignAuthLinks{
+    position:absolute;
+    left:80%;
+}

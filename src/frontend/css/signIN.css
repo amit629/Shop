@@ -1,0 +1,17 @@
+.colorClass{
+    background-color: red;
+    
+}
+.mrginDiv{
+    margin-top: 2vh;
+}
+.imageColoumn{
+    background-image: url("../../../public/images/imgSignIn.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 90vh;
+}
+.ExpandForm{
+    
+    display: inline-block;
+}
